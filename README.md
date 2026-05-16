@@ -34,3 +34,9 @@ A simple Android application built using Kotlin and Jetpack Compose to calculate
 
 ## Author
 Developed by Zameesha Jameel
+
+
+## Screenshots
+
+<img width="1440" height="2963" alt="Overweight BMI" src="https://github.com/user-attachments/assets/b52f43a0-ec2e-4797-b301-cef2bfcf6218" />
+
