@@ -38,5 +38,5 @@ Developed by Zameesha Jameel
 
 ## Screenshots
 
-<img width="500" height="1000" alt="BMI Calculator" src="https://github.com/user-attachments/assets/c793cead-4be7-4e1e-a7e1-873c48600f85" />
+<img width="400" height="800" alt="BMI Calculator" src="https://github.com/user-attachments/assets/c793cead-4be7-4e1e-a7e1-873c48600f85" />
 
