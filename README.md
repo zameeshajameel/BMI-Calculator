@@ -38,5 +38,5 @@ Developed by Zameesha Jameel
 
 ## Screenshots
 
-<img width="1440" height="2963" alt="Overweight BMI" src="https://github.com/user-attachments/assets/b52f43a0-ec2e-4797-b301-cef2bfcf6218" />
+<img width="1080" height="1920" alt="BMI Calculator" src="https://github.com/user-attachments/assets/c793cead-4be7-4e1e-a7e1-873c48600f85" />
 
